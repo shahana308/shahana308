@@ -19,6 +19,8 @@ I'm **Shahana Salam** 🚀
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![Mapbox](https://img.shields.io/badge/Mapbox-333333?style=flat&logo=mapbox&logoColor=00ADFF)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-333333?style=flat&logo=puppeteer&logoColor=40B883)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+![Drone CI](https://img.shields.io/badge/Drone_CI-333333?style=flat&logo=drone&logoColor=00C6FF)
 
 ---
 
