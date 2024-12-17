@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello world! 👋  
+I'm **Shahana Salam** 🚀  
 
-<!--
-**shahana308/shahana308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me:
+- 💻 Frontend Developer with 4 years of experience.  
+- 📚 Currently exploring **AI Engineering** to transition into the AI domain.  
+- 🌱 Learning **Python**, **Machine Learning**, and **Neural Networks**.  
+- 🌍 Based in Dubai, UAE.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=nextdotjs&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![Mapbox](https://img.shields.io/badge/Mapbox-333333?style=flat&logo=mapbox&logoColor=00ADFF)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-333333?style=flat&logo=puppeteer&logoColor=40B883)
+
+---
+
