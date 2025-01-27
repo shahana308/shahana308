@@ -2,7 +2,7 @@
 I'm **Shahana Salam** 🚀  
 
 ### 🚀 About Me:
-- 💻 Frontend Developer with 4 years of experience.  
+- 💻 Frontend Developer with 4+ years of experience.  
 - 📚 Currently exploring **AI Engineering** to transition into the AI domain.  
 - 🌱 Learning **Python**, **Machine Learning**, and **Neural Networks**.  
 - 🌍 Based in Dubai, UAE.  
