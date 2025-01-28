@@ -15,3 +15,8 @@ I'm **Shahana Salam** 🚀
 
 ---
 
+## 📊 GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahana308&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahana308&layout=compact&theme=radical)
+
