@@ -1,11 +1,11 @@
-# Hello world! 
-I'm **Shahana Salam** 
+# Hey there! 👋  
+I'm **Shahana Salam**, a frontend developer with a passion for building clean, user-friendly interfaces and diving into the world of AI.
 
-### About Me:
-- Frontend Developer with 5 years of experience.  
-- Currently exploring **AI Engineering** to transition into the AI domain.  
-- Learning **Python**, **Machine Learning**, and **Neural Networks**.  
-- Based in Dubai, UAE.  
+### 👩‍💻 A bit about me  
+- I’ve been crafting frontends for the past **5 years**, mostly with React and TypeScript.  
+- Currently based in **Dubai, UAE**.  
+- On a learning journey into **AI Engineering** — exploring **Python**, **Machine Learning**, and **Neural Networks**.  
+- I love blending design, performance, and code to create thoughtful digital experiences.
 
 ---
 
