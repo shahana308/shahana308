@@ -4,7 +4,6 @@ I'm **Shahana Salam**, a frontend developer with a passion for building clean, u
 ### A bit about me  
 - I’ve been crafting frontends for the past **5 years**, mostly with React and TypeScript.  
 - Currently based in **Dubai, UAE**.  
-- On a learning journey into **AI Engineering** — exploring **Python**, **Machine Learning**, and **Neural Networks**.  
 - I love blending design, performance, and code to create thoughtful digital experiences.
 
 ---
