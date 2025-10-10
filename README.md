@@ -1,5 +1,5 @@
 # Hey there! 
-I'm **Shahana Salam**, a frontend developer with a passion for building clean, user-friendly interfaces and diving into the world of AI.
+I'm **Shahana Salam**, a frontend developer with a passion for building clean, and user-friendly interfaces.
 
 ### A bit about me  
 - I’ve been crafting frontends for the past **5 years**, mostly with React and TypeScript.  
